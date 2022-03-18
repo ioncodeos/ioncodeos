@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioncodeos
 - 👀 I’m interested in creating a discord bot to show opensea floor price for projects.
-- 🌱 I’m currently learning javascript and python.
+- 🌱 I’m currently learning javascript and python for my bot.
 - 💞️ I’m looking to collaborate on discord bots to sell to nft communities.
 - 📫 How to reach me is via email ioncode.up@gmail.com
 
